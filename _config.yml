@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Boyuan Zheng"
-  avatar           : "500*300.png"
+  avatar           : "mstile-144x144.png"
   bio              : ""
   location         : "Kingston, Canada"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/boyuanzheng010/"
+  github           : "boyuanzheng010/"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
