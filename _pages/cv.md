@@ -9,18 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-#Education
-###Northeastern University
-* Time: Sep.2017-Sep.2019
-* Major: Software Engineering (International, English)
-* GPA:4.25/5 (Average 92.5)
-* Rank 1st in department
+#Experience
+**Research Intern**, Dec.2019-Present
 
-The courses of major Software Engineering (International, English) are all provided in English and from top universities around the world. Students who can't meet our academic standard or fail in 2 or more courses are eliminated every year.
+Text Analytics and Machine Learning Lab (TAML),  Queen's University
 
-### The Hong Kong Polytechnic University(exchange)
-* Time: Sep.2019-Jan.2020
-* Department: Computing
+* Project 1:Commonsense based text generation
+* Project 2: Abstractive Text Summarization
 
-### University of California San Diego(exchange)
-* Time: Start from March
+**Research Intern**, July.2019-Aug.2019
+
+Artificial and Robotics Laboratory, North Carolina State University 
+
+Project: Uncertainty-based Attention model for physiological response prediction
+
+**Research Intern**, Aug.2018-July.2019
+
+Natural Language Processing Laboratory, Northeastern University
+
+Project: Machine Reading Comprehension with text filter    
