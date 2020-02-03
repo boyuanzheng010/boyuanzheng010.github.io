@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 #Experience
+
 **Research Intern**, Dec.2019-Present
 
 Text Analytics and Machine Learning Lab (TAML),  Queen's University
