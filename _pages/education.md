@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-**<font size=4>Northeastern University</font>**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep.2017-Sep.2019
+**Northeastern University**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep.2017-Sep.2019
 
 * Major: Software Engineering (International, English)
 * GPA:4.25/5 (Average 92.5), rank 1st in department
@@ -17,10 +17,10 @@ The courses of major Software Engineering (International, English) are all provi
 
 
 
-**<font size=4>The Hong Kong Polytechnic University(exchange)</font>**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep.2019-Jan.2020
+**The Hong Kong Polytechnic University(exchange)**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sep.2019-Jan.2020
 
 * Department: Computing
 
-**<font size=4>University of California San Diego(exchange)</font>**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp&emsp;March.2019-
+**University of California San Diego(exchange)**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;March.2019-
 
 * Department: ECE
