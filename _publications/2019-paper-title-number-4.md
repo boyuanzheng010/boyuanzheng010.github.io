@@ -1,7 +1,7 @@
 ---
 title: "Project 3"
 collection: publications
-permalink: /publication/paper-title-number-4
+permalink: /publication/2019-paper-title-number-4
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 
 
