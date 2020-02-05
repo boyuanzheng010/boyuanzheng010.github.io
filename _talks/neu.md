@@ -2,7 +2,7 @@
 title: "Machine Reading Comprehension with text filter"
 collection: talks
 type: 
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/neu
 venue: "Northeastern University, mentored by Feiliang Ren"
 date: 2019-05-21
 location: "Shenyang, China"
