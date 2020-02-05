@@ -1,0 +1,16 @@
+---
+title: "Uncertainty-based Attention model for physiological response prediction"
+collection: talks
+permalink: /talks/ncsu
+type: ""
+venue: "North Carolina State University, mentored by Edgar Lobton"
+date: 2019
+location: "Raleigh, USA"
+
+---
+
+Project details:
+* Processed time series data with sliding window algorithm and normalization
+* Used LSTM and Attention Mechanism to model and interpret long time series
+* Used Bayesian Network to generate prediction uncertainty and used uncertainty to increase prediction reliability
+* Tested model on human physiological response data collected in the lab
