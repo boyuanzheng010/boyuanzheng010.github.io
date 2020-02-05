@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/queen's commonsense
 type: ""
 venue: "Queen's University, mentored by Xiaodan Zhu"
-date: 2020
+date: 2020-2-4
 location: "Kingston, Canada"
 
 ---
