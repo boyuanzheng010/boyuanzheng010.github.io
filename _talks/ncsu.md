@@ -3,11 +3,11 @@ title: "Uncertainty-based Attention model for physiological response prediction"
 collection: talks
 permalink: /talks/ncsu
 type: 
-venue: "North Carolina State University"
+venue: "North Carolina State University, Artificial and Robotics Laboratory"
 date: 2019-08-21
 location: "Raleigh, USA"
 ---
-I did intern in Artificial and Robotics Laboratory, supervised by Prof.Edgar Lobton. In this project, I learned knowledge about physiological response prediction from scratch, implemented idea using Python and made poster presentation finally.
+Conducted research in Physiological Response Prediction, supervised by Prof.Edgar Lobton. In this project, I learned knowledge about physiological response prediction from scratch, implemented idea using Python and made poster presentation finally.
 
 Project details:
 * Processed time series data with sliding window algorithm and normalization
