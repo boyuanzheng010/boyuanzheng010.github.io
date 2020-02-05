@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty-based Attention model for physiological response prediction"
 collection: talks
-permalink: /talks/2019-08-21-tutorial-1
+permalink: /talks/ncsu
 type: 
 venue: "North Carolina State University, mentored by Edgar Lobton"
 date: 2019-08-21
