@@ -7,7 +7,7 @@ venue: "North Carolina State University"
 date: 2019-08-21
 location: "Raleigh, USA"
 ---
-I did intern in Artificial and Robotics Laboratory, supervised by Prof.Edgar Lobton. In this program, I learnt knowledge physiological response prediction from scratch, implemented idea with code and made poster presentation finally.
+I did intern in Artificial and Robotics Laboratory, supervised by Prof.Edgar Lobton. In this project, I learned knowledge about physiological response prediction from scratch, implemented idea using Python and made poster presentation finally.
 
 Project details:
 * Processed time series data with sliding window algorithm and normalization
