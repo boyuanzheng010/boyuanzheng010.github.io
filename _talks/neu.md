@@ -4,7 +4,7 @@ collection: talks
 permalink: /talks/neu
 type: ""
 venue: "Northeastern University, mentored by Feiliang Ren"
-date: 2018
+date: 2018-8-21
 location: "Raleigh, USA"
 
 ---
