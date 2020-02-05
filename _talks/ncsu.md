@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty-based Attention model for physiological response prediction"
+title: "Uncertainty-awared Attention model for physiological response prediction"
 collection: talks
 permalink: /talks/ncsu
 type: 
@@ -8,6 +8,7 @@ date: 2019-08-21
 location: "Raleigh, USA"
 ---
 Conducted research in Physiological Response Prediction, supervised by Prof.Edgar Lobton. 
+
 In this project, I learned knowledge about physiological response prediction from scratch, implemented idea using Python and made poster presentation finally.
 
 Project details:
