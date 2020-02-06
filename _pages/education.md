@@ -20,6 +20,8 @@ The courses of major Software Engineering (International, English) are all provi
 **The Hong Kong Polytechnic University(exchange)**, Sep.2019-Jan.2020
 
 * Department: Computing
+* GPA:4.0/4.0
+* Courses: Machine Learning, Socail and Collaborative Computation, Intellectual Property Protection, Cantonese.
 
 **University of California San Diego(exchange)**, March.2019-
 
