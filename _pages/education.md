@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-**Northeastern University**, Sep.2017-Sep.2019
+**Northeastern University, China**, Sep.2017-Sep.2019
 
 * Major: Software Engineering (International, English)
 * GPA:4.25/5 (Average 92.5), rank 1st in department
