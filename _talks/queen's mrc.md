@@ -15,3 +15,5 @@ Project details:
 * Investigated into text summarization dataset, do analysis and find dataset that are more abstractive.
 * Designed abstractive word selector to extract summary words that summarize corresponding document information.
 * Built baseline models and incorporate WordNet knowledge to enhance performance.
+
+[SemEval Proposal](http://boyuanzheng010.github.io/files/semeval_proposal.pdf)
