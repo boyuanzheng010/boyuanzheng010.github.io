@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+**Research Intern**, Mar.2020-Present
+
+University of California, San Diego, mentored by Julian McAuley.
+
+* Project: Personalized Text Summarization enchanced by personal information
+
+
 **Research Intern**, Dec.2019-Present
 Text Analytics and Machine Learning Lab (TAML),  Queen's University, mentored by Xiaodan Zhu.
 
