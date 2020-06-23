@@ -23,6 +23,8 @@ The courses of major Software Engineering (International, English) are all provi
 * GPA:4.0/4.0
 * Courses: Machine Learning, Socail and Collaborative Computation, Intellectual Property Protection, Cantonese.
 
-**University of California San Diego(exchange)**, March.2019-
+**University of California San Diego(exchange)**, March.2020-June.2020
 
 * Department: ECE
+* GPA:4.0/4.0
+* Courses: CSE199:Independent Study,  DSC109:Data Analysis and Modeling,  DSC40B:Theoretical fundation of Data Science.
