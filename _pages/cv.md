@@ -14,6 +14,7 @@ Text Analytics and Machine Learning Lab (TAML),  Queen's University, mentored by
 
 * Project 1:Commonsense based text generation
 * Project 2: Abstractive Text Summarization
+
 **Research Intern**, July.2019-Aug.2019
 
 Artificial and Robotics Laboratory, North Carolina State University, mentored by Edgar Lobton.
