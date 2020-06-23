@@ -10,12 +10,10 @@ redirect_from:
 {% include base_path %}
 
 **Research Intern**, Dec.2019-Present
-<font size=5>
 Text Analytics and Machine Learning Lab (TAML),  Queen's University, mentored by Xiaodan Zhu.
 
 * Project 1:Commonsense based text generation
 * Project 2: Abstractive Text Summarization
-</font>
 **Research Intern**, July.2019-Aug.2019
 
 Artificial and Robotics Laboratory, North Carolina State University, mentored by Edgar Lobton.
