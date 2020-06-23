@@ -16,4 +16,4 @@ Project details:
 * Designed abstractive word selector to extract summary words that summarize corresponding document information.
 * Built baseline models and incorporate WordNet knowledge to enhance performance.
 
-[SemEval Proposal](http://boyuanzheng010.github.io/files/semeval_proposal.pdf)
+[SemEval Proposal](http://boyuanzheng010.github.io/files/Personalized Summarization.pdf)
