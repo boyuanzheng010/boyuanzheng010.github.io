@@ -1,4 +1,4 @@
-## Services
+## Experience
 
 <h4 style="margin:0 10px 0;">Experience</h4>
 
@@ -17,21 +17,15 @@
 [//]: # (</ul>)
 [//]: # (## Experience)
 
-- **Master → Ph.D. of Language Technologies, Carnegie Mellon University**
-  - **Duration:** 2018.08 - Present
-  - **Advisor:** Graham Neubig
+- **Ph.D. of Computer Science, The Ohio State University**
+  - **Duration:** 2023.09 - Present
+  - **Advisor:** Yu Su
 
-- **Ph.D. Resident, X, the moonshot factory**
-  - **Duration:** 2022.05 - 2022.08
-  - **Host:** Alex Polozov
+- **Applied Scientist Intern, Amazon Alexa AI**
+  - **Duration:** 2023.06 - 2020.09
 
-- **Research Intern, Microsoft**
-  - **Duration:** 2020.05 - 2020.08
-  - **Host:** Kaushik Chakrabarti
+- **Master of Computer Science and Engineering, The Johns Hopkins University**
+  - **Duration:** 2021.09 - 2023.06
 
-- **B.Eng of Computer Science and Technology, Harbin Institute of Technology**
-  - **Duration:** 2014.09 - 2018.06
-
-- **Research Intern, Microsoft Research Asia**
-  - **Duration:** 2017.07 - 2018.06
-  - **Host:** Chin-Yew Lin
+- **B.Eng of Software Engineering, Northeastern University (China)**
+  - **Duration:** 2017.09 - 2021.06
