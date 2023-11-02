@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/pdf/2306.06070.pdf
     code: https://github.com/OSU-NLP-Group/Mind2Web
     page: https://osu-nlp-group.github.io/Mind2Web/
-    image: ./assets/img/mind2web.jpg
+    image: ./assets/img/mind2web.png
     notes: Spotlight
 
   - title: "Multilingual Coreference Resolution in Multiparty Dialogue"
