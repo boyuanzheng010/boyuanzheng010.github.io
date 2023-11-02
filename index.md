@@ -8,8 +8,8 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 
 ## Research Interests
 
-- **Language Agent:** 
-- **Multimodality:** 
+- **Language Agent:** Web Agent, Grounding, Planning
+- **Multimodality**
 
 ## News
 
