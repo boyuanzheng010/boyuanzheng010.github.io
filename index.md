@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fortunately advised by Prof. [Yu Su](https://ysu1989.github.io/). Before that, I received my Master's degree in Computer Science from The Johns Hopkins University where I was fortunate to work with Prof. [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 
 ## Research Interests
 
