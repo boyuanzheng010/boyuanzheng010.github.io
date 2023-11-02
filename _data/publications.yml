@@ -16,6 +16,7 @@ main:
     conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2208.01307.pdf
     code: https://github.com/boyuanzheng010/mmc
+    page: https://nlp.jhu.edu/multicoref/
     MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
     notes:
     image: ./assets/img/mmc.png
