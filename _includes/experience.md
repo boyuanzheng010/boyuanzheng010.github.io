@@ -7,10 +7,11 @@
   - **Advisor:** Yu Su
 
 - **Applied Scientist Intern, Amazon Alexa AI**
-  - **Duration:** 2023.06 - 2020.09
+  - **Duration:** 2023.06 - 2023.09
 
 - **Master of Computer Science and Engineering, The Johns Hopkins University**
   - **Duration:** 2021.09 - 2023.06
+  - **Advisor:** Benjamin Van Durme
 
 - **B.Eng of Software Engineering, Northeastern University (China)**
   - **Duration:** 2017.09 - 2021.06
