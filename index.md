@@ -8,15 +8,14 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Language Agent:** 
+- **Multimodality:** 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2023]** I will attend NeurIPS'23! Looking forward to meet new and old friends at New Orleans!
+- **[Sept. 2023]** Phd journey starts!
+- **[June. 2023]** Started summer internship in Amazon Alexa AI
 
 {% include_relative _includes/publications.md %}
 
