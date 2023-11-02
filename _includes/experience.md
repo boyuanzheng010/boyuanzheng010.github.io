@@ -11,7 +11,7 @@
 - **Ph.D. of Computer Science, The Ohio State University**
   - **Duration:** 2023.09 - Present
   - **Advisor:** Yu Su
-- **Master of Computer Science and Engineering, The Johns Hopkins University**
+- **M.S. of Computer Science and Engineering, The Johns Hopkins University**
   - **Duration:** 2021.09 - 2023.06
   - **Advisor:** Benjamin Van Durme
 - **B.Eng of Software Engineering, Northeastern University (China)**
