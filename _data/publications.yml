@@ -17,7 +17,7 @@ main:
     code: https://github.com/boyuanzheng010/mmc
     MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
     notes:
-    image: ./assets/img/mmc.jpg
+    image: ./assets/img/mmc.png
 
   - title: "An Empirical Study on Finding Spans"
     authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
