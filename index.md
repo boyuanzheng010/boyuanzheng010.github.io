@@ -14,7 +14,7 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 ## News
 
 - **[Oct. 2023]** I will attend NeurIPS'23! Looking forward to meet new and old friends at New Orleans!
-- **[Sept. 2023]** Phd journey starts!
+- **[Sept. 2023]** PhD journey starts!
 - **[June. 2023]** Started summer internship in Amazon Alexa AI
 
 {% include_relative _includes/publications.md %}
