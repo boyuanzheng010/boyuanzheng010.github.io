@@ -1,22 +1,28 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Mind2Web: Towards a Generalist Agent for the Web"
+    authors: Xiang Deng, Yu Gu, <strong>Boyuan Zheng</strong>, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
+    conference_short: NeurIPS'23
+    conference: Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS), 2023
+    pdf: https://arxiv.org/pdf/2306.06070.pdf
+    code: https://github.com/OSU-NLP-Group/Mind2Web
+    image: ./assets/img/mind2web.jpg
+    notes: Spotlight
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Multilingual Coreference Resolution in Multiparty Dialogue"
+    authors: <strong>Boyuan Zheng</strong>, Patrick Xia, Mahsa Yarmohammadi, Benjamin Van Durme
+    conference_short: TACL'23
+    conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2208.01307.pdf
+    code: https://github.com/boyuanzheng010/mmc
+    MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
+    notes:
+    image: ./assets/img/mmc.jpg
+
+  - title: "An Empirical Study on Finding Spans"
+    authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
+    conference_short: EMNLP'22
+    conference: The 2022 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2210.06824.pdf
+    image: ./assets/img/span_finder.jpg
+
