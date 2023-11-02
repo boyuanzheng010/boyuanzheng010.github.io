@@ -20,3 +20,6 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/experience.md %}
+
