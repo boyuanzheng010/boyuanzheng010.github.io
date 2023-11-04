@@ -1,5 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
-<button id="togglePublications" onclick="togglePublicationsDisplay()">Show All Publications</button>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -51,22 +50,3 @@
 
 </ol>
 </div>
-
-<script>
-  function togglePublicationsDisplay() {
-    // Get the publications list and the button
-    var publicationsList = document.querySelector('.publications');
-    var button = document.getElementById('togglePublications');
-    
-    // Check if the publications list is currently displayed
-    if (publicationsList.style.display === 'none' || publicationsList.style.display === '') {
-      // If not, display it and update button text
-      publicationsList.style.display = 'block';
-      button.textContent = 'Show Less Publications';
-    } else {
-      // If it is, hide it and update button text
-      publicationsList.style.display = 'none';
-      button.textContent = 'Show All Publications';
-    }
-  }
-</script>
