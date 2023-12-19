@@ -8,8 +8,13 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 
 ## Research Interests
 
-- **Language Agent:** Web Agent, Grounding, Planning
-- **Vision Language Model** 
+I am interested in developing **language agents** that can free people from tedious tasks.
+I focus on multiple aspects spinning this goal:
+- **Grounding and Planning:** Web Agent, Grounding, Planning, Security
+- **Safety**
+- **Multimodality:**  Hallucination Issue
+
+I am actively looking for research internship opportunities for 2024 summer.
 
 ## News
 
