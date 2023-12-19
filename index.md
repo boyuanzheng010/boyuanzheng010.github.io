@@ -6,6 +6,8 @@ layout: homepage
 
 Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fortunately advised by Prof. [Yu Su](https://ysu1989.github.io/). Before that, I received my Bachelor degree in Software Engineering from Northeastern University (China) and Master degree in Computer Science from The Johns Hopkins University where I was fortunate to work with Prof. [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
 
+I am actively looking for research internship opportunities for 2024 summer.
+
 ## Research Interests
 
 I am interested in developing **language agents** that can free people from tedious tasks.
@@ -13,8 +15,6 @@ I focus on multiple aspects spinning this goal:
 - **Grounding and Planning:** Web Agent, Grounding, Planning, Security
 - **Safety**
 - **Multimodality:**  Hallucination Issue
-
-I am actively looking for research internship opportunities for 2024 summer.
 
 ## News
 
