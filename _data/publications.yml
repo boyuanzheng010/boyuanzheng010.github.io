@@ -1,5 +1,12 @@
 main:
 
+  - title: "Grounded GPT-4V(ision) is a Generalist Web Agent"
+    authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
+#    pdf: https://arxiv.org/abs/2311.16502
+#    code: https://github.com/MMMU-Benchmark/MMMU
+#    page: https://mmmu-benchmark.github.io/
+    image: ./assets/img/seeact.jpg
+
   - title: "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI"
     authors: Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, <strong>Boyuan Zheng</strong>, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
     pdf: https://arxiv.org/abs/2311.16502
