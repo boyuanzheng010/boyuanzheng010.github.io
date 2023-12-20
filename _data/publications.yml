@@ -1,6 +1,6 @@
 main:
 
-  - title: "Grounded GPT-4V(ision) is a Generalist Web Agent"
+  - title: "SeeAct: Grounded GPT-4V(ision) is a Generalist Web Agent"
     authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
 #    pdf: https://arxiv.org/abs/2311.16502
 #    code: https://github.com/MMMU-Benchmark/MMMU

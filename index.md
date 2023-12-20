@@ -10,8 +10,14 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 
 ## Research Interests
 
-I am interested in developing **language agents** that can free human beings from tedious tasks and assistant with decision making.
+I am interested in developing **language agents** that can free human beings from tedious tasks and assist with decision making, especially web agents.
 I focus on multiple aspects and constructing relevant benchmarks spinning this goal:
+(1) Developing benchmarks to provide playgrounds for agent research (e.g. Mind2Web); 
+(2) Grounding LMMs/LMMs to the target environments (e.g. SeeAct: Grounding to webpage image details );
+(3) Multimodality: Leverage multimodal models capable of understanding image and video;
+(4) Agent Safety
+
+
 - **Grounding and Planning:** Web Agent, Grounding, Planning, Security
 - **Multimodality:** With the increase of accessible image and video, what power can this brings?
 - **Agent Safety:**
