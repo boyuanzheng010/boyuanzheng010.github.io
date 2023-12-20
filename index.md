@@ -13,9 +13,9 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 I am interested in developing **language agents** that can free human beings from tedious tasks and assist with decision making, especially on web environments. 
 I am also broadly interested in new directions and welcome new collaborations. Currently, I focus on the following directions:
 - **Multimodality**
-- **Grounding**
-- **Planning and Reasoning**
-- **Agent Safety and Piracy**
+- **Grounding, Planing, and Reasoning**
+- **Synthetic data**
+- **Agent Safety**
 
 
 ## News
