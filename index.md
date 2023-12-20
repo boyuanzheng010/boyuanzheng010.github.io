@@ -11,8 +11,10 @@ Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fort
 ## Research Interests
 
 I am interested in developing **language agents** that can free people from tedious tasks. I focus on multiple aspects spinning this goal:
-- **Grounding and Planning:** Web Agent, Grounding, Planning, Security
+**Grounding and Planning:** Web Agent, Grounding, Planning, Security
+
 **Multimodality:** With the increase of accessible image and video, what power can this brings?
+
 **Agent Safety:**
 
 ## News
