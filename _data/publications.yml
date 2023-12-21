@@ -9,6 +9,7 @@ main:
 
   - title: "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI"
     authors: Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, <strong>Boyuan Zheng</strong>, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
+    conference_short: ArXiv
     pdf: https://arxiv.org/abs/2311.16502
     code: https://github.com/MMMU-Benchmark/MMMU
     page: https://mmmu-benchmark.github.io/
