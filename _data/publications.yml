@@ -2,6 +2,7 @@ main:
 
   - title: "SeeAct: Grounded GPT-4V(ision) is a Generalist Web Agent"
     authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
+    conference_short: To Appear
     pdf:
     code:
     page:
