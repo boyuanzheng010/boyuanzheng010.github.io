@@ -45,13 +45,12 @@ Currently, I am working on the following directions:
 
 [//]: # (</div>)
 
-<!-- Google Analytics -->
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-J5LY8M2WFM"></script>
 <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    gtag('config', 'G-J5LY8M2WFM');
+  gtag('config', 'G-J5LY8M2WFM');
 </script>
-<!-- End Google Analytics -->
