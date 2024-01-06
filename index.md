@@ -31,10 +31,27 @@ Currently, I am working on the following directions:
 {% include_relative _includes/services.md %}
 
 
-<!-- Map -->
-<div class='vspace-top'>
-    <h1>Visitors</h1>
-</div>
-<div id="revolverMap">
-    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5egbaxa13f1&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
-</div>
+[//]: # (<!-- Map -->)
+
+[//]: # (<div class='vspace-top'>)
+
+[//]: # (    <h1>Visitors</h1>)
+
+[//]: # (</div>)
+
+[//]: # (<div id="revolverMap">)
+
+[//]: # (    <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5egbaxa13f1&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>)
+
+[//]: # (</div>)
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J5LY8M2WFM"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-J5LY8M2WFM');
+</script>
+<!-- End Google Analytics -->
