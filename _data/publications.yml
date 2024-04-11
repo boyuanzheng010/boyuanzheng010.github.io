@@ -37,10 +37,10 @@ main:
     notes:
     image: ./assets/img/mmc.png
 
-  - title: "An Empirical Study on Finding Spans"
-    authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
-    conference_short: EMNLP'22
-    conference: The 2022 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
-    pdf: https://arxiv.org/pdf/2210.06824.pdf
-    image: ./assets/img/span_finder.png
+#  - title: "An Empirical Study on Finding Spans"
+#    authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
+#    conference_short: EMNLP'22
+#    conference: The 2022 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
+#    pdf: https://arxiv.org/pdf/2210.06824.pdf
+#    image: ./assets/img/span_finder.png
 
