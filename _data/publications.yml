@@ -15,6 +15,7 @@ main:
     code: https://github.com/MMMU-Benchmark/MMMU
     page: https://mmmu-benchmark.github.io/
     image: ./assets/img/mmmu.jpg
+    notes: Oral
 
   - title: "Mind2Web: Towards a Generalist Agent for the Web"
     authors: Xiang Deng, Yu Gu, <strong>Boyuan Zheng</strong>, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
