@@ -2,7 +2,7 @@ main:
 
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
-    conference_short: ArXiv
+    conference_short: ICML'24
     pdf: https://arxiv.org/abs/2401.01614
     code: https://github.com/OSU-NLP-Group/SeeAct
     page: https://osu-nlp-group.github.io/SeeAct/
