@@ -17,7 +17,7 @@ Currently, I am working on the following directions:
 
 
 ## News
-- **[Oct. 2024]** I will attend EMNLP'24! Looking forward to meet new and old friends at Miami!
+- **[Oct. 2024]** I will attend EMNLP'24 to present [WebOlympus](https://osu-nlp-group.github.io/SeeAct/)! Looking forward to meet new and old friends at Miami!
 - **[Oct. 2024]** I will attend COLM!
 - **[May. 2024]** [SeeAct](https://osu-nlp-group.github.io/SeeAct/) accepted to ICML'24! See you at Vienna!
 - **[Apr. 2024]** I will attend [MSLD](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/#:~:text=Abstracts%20may%20be%20submitted%20through%20OpenReview%20here.) to present SeeAct at Ann Arbor! Looking forward to meet new and old friends!
