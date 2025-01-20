@@ -1,5 +1,12 @@
 main:
 
+  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
+    authors: Yu Gu*, <strong>Boyuan Zheng*</strong>, Boyu Gou, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    conference_short: ArXiv
+    pdf: https://arxiv.org/abs/2411.06559
+    code: https://github.com/OSU-NLP-Group/WebDreamer
+    image: ./assets/img/webdreamer.png
+
   - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
     authors: Boyu Gou, Ruohan Wang, <strong>Boyuan Zheng</strong>, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
     conference_short: ArXiv
