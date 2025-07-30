@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Boyuan, a first-year PhD student at The Ohio State University. I am fortunately advised by Prof. [Yu Su](https://ysu1989.github.io/). Before that, I received my Bachelor degree in Software Engineering from Northeastern University (China) and Master degree in Computer Science from The Johns Hopkins University where I was fortunate to work with Prof. [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
+Hi, I'm Boyuan, a third-year PhD student at The Ohio State University advised by [Yu Su](https://ysu1989.github.io/). 
+I am currently working as a Research Intern in the PRIOR team at AI2 with [Tanmay Gupta](https://tanmaygupta.info/).
+Before that, I received my Bachelor degree from Northeastern University (China) and Master degree from The Johns Hopkins University where I was fortunate to work with [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/).
+
 
 ## Research Interests
 
