@@ -1,6 +1,8 @@
 ## Experience
 
 <h4 style="margin:0 10px 0;">Internship</h4>
+- **Research Intern, Allen Institute for AI (Ai2)**
+  - **Duration:** 2025.05 - Present
 
 - **Applied Scientist Intern, Amazon Alexa AI**
   - **Duration:** 2023.06 - 2023.09
