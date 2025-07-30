@@ -11,15 +11,15 @@ Before that, I received my Bachelor degree from Northeastern University (China) 
 
 ## Research Interests
 
-I am interested in developing **language agents** that can free human beings from tedious tasks and assist with decision making, especially on web environments. 
-Currently, I am working on the following directions:
-- **Multimodality**
-- **Grounding, Planing, and Reasoning**
-- **Synthetic data**
+I am interested in developing **language agents** that can free human beings from tedious tasks and assist with decision making, especially on web environments.
+To achieve this goal, I am working on the following directions: 
+- **Scaling RL Training for Web Agents**
+- **Large-scale Agent Trajectory Synthesis**
 - **Agent Safety**
 
 
 ## News
+- **[May. 2025]** Started summer internship at the PRIOR team at AI2!
 - **[Oct. 2024]** I will attend EMNLP'24 to present [WebOlympus](https://osu-nlp-group.github.io/SeeAct/)! Looking forward to meet new and old friends at Miami!
 - **[Oct. 2024]** I will attend COLM!
 - **[May. 2024]** [SeeAct](https://osu-nlp-group.github.io/SeeAct/) accepted to ICML'24! See you at Vienna!
