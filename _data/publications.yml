@@ -1,5 +1,28 @@
 main:
 
+  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
+    authors: Yu Gu*, <strong>Boyuan Zheng*</strong>, Boyu Gou, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
+    conference_short: ArXiv
+    pdf: https://arxiv.org/abs/2411.06559
+    code: https://github.com/OSU-NLP-Group/WebDreamer
+    image: ./assets/img/webdreamer.png
+
+  - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
+    authors: Boyu Gou, Ruohan Wang, <strong>Boyuan Zheng</strong>, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
+    conference_short: ArXiv
+    pdf: https://arxiv.org/abs/2410.05243
+    code: https://github.com/OSU-NLP-Group/UGround
+    page: https://osu-nlp-group.github.io/UGround/
+    image: ./assets/img/uground.png
+
+  - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
+    authors: <strong>Boyuan Zheng*</strong>, Boyu Gou*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
+    conference_short: EMNLP'24 Demo
+    pdf:
+    code: https://github.com/OSU-NLP-Group/SeeAct
+    page: https://osu-nlp-group.github.io/SeeAct/
+    image: ./assets/img/web-demo.png
+
   - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
     authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
     conference_short: ICML'24
@@ -27,16 +50,16 @@ main:
     image: ./assets/img/mind2web.png
     notes: Spotlight
 
-  - title: "Multilingual Coreference Resolution in Multiparty Dialogue"
-    authors: <strong>Boyuan Zheng</strong>, Patrick Xia, Mahsa Yarmohammadi, Benjamin Van Durme
-    conference_short: TACL'23
-    conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2208.01307.pdf
-    code: https://github.com/boyuanzheng010/mmc
-    page: https://nlp.jhu.edu/multicoref/
-    MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
-    notes:
-    image: ./assets/img/mmc.png
+#  - title: "Multilingual Coreference Resolution in Multiparty Dialogue"
+#    authors: <strong>Boyuan Zheng</strong>, Patrick Xia, Mahsa Yarmohammadi, Benjamin Van Durme
+#    conference_short: TACL'23
+#    conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2023.
+#    pdf: https://arxiv.org/pdf/2208.01307.pdf
+#    code: https://github.com/boyuanzheng010/mmc
+#    page: https://nlp.jhu.edu/multicoref/
+#    MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
+#    notes:
+#    image: ./assets/img/mmc.png
 
 #  - title: "An Empirical Study on Finding Spans"
 #    authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
