@@ -1,0 +1,26 @@
+{% assign work = include.work %}
+<article class="work-item" id="{{ work.id | escape }}">
+  <details class="work-disclosure">
+    <summary class="work-toggle" aria-labelledby="{{ work.id | escape }}-title">
+      <span class="work-title" id="{{ work.id | escape }}-title">
+        {% capture highlighted_name %}<strong class="project-name">{{ work.name | escape }}</strong>{% endcapture %}
+        {% if work.title contains work.name %}
+          {{ work.title | escape | replace_first: work.name, highlighted_name }}
+        {% elsif work.title %}
+          {{ highlighted_name }} <span class="title-separator">·</span> {{ work.title | escape }}
+        {% else %}
+          {{ highlighted_name }}
+        {% endif %}
+      </span>
+      <span class="work-chevron" aria-hidden="true"></span>
+      {% if work.authors.size > 0 %}
+      <span class="authors">{% for author in work.authors %}{% if author.name == 'Boyuan Zheng' %}<strong>{{ author.name }}</strong>{% else %}{{ author.name | escape }}{% endif %}{% if author.equal %}*{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+      {% endif %}
+      <span class="venue">{{ work.venue | escape }}{% if work.year %} · {{ work.year }}{% endif %}</span>
+    </summary>
+    <div class="work-details">
+      {% unless work.authors.size > 0 %}{% if work.summary %}<p class="work-summary">{{ work.summary | escape }}</p>{% endif %}{% endunless %}
+      {% if work.links.size > 0 %}{% include work-links.html links=work.links name=work.name %}{% endif %}
+    </div>
+  </details>
+</article>

@@ -1,0 +1,5 @@
+<ul class="work-links" aria-label="{{ include.name | escape }} links">
+  {% for link in include.links %}
+  <li><a href="{{ link.url | escape }}">{{ link.label | escape }}</a></li>
+  {% endfor %}
+</ul>

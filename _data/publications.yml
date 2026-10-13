@@ -1,70 +1,134 @@
+# Selected work, ordered to tell the research story rather than by date.
+# Authors and venues checked against the papers and official project pages.
 main:
+  - id: seeact
+    name: SeeAct
+    title: "GPT-4V(ision) is a Generalist Web Agent, if Grounded"
+    summary: "A multimodal agent for real websites, showing that grounding model predictions in actionable page elements is key to reliable web interaction."
+    authors:
+      - name: Boyuan Zheng
+      - name: Boyu Gou
+      - name: Jihyung Kil
+      - name: Huan Sun
+      - name: Yu Su
+    venue: ICML
+    year: 2024
+    links:
+      - label: Paper
+        url: https://proceedings.mlr.press/v235/zheng24e.html
+      - label: Code
+        url: https://github.com/OSU-NLP-Group/SeeAct
+      - label: Project
+        url: https://osu-nlp-group.github.io/SeeAct/
+    image: /assets/img/seeact.jpg
+    image_alt: "SeeAct web-agent framework"
 
-  - title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
-    authors: Yu Gu*, <strong>Boyuan Zheng*</strong>, Boyu Gou, Kai Zhang, Cheng Chang, Sanjari Srivastava, Yanan Xie, Peng Qi, Huan Sun, Yu Su
-    conference_short: ArXiv
-    pdf: https://arxiv.org/abs/2411.06559
-    code: https://github.com/OSU-NLP-Group/WebDreamer
-    image: ./assets/img/webdreamer.png
+  - id: uground
+    name: UGround
+    title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
+    summary: "Visual grounding models trained with large-scale synthetic data, helping agents locate and interact with interface elements across web, desktop, and mobile."
+    authors:
+      - name: Boyu Gou
+      - name: Ruohan Wang
+      - name: Boyuan Zheng
+      - name: Yanan Xie
+      - name: Cheng Chang
+      - name: Yiheng Shu
+      - name: Huan Sun
+      - name: Yu Su
+    venue: ICLR (Oral)
+    year: 2025
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2410.05243
+      - label: Code
+        url: https://github.com/OSU-NLP-Group/UGround
+      - label: Project
+        url: https://osu-nlp-group.github.io/UGround/
+    image: /assets/img/uground.png
+    image_alt: "UGround visual grounding for web, desktop, and mobile interfaces"
 
-  - title: "Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents"
-    authors: Boyu Gou, Ruohan Wang, <strong>Boyuan Zheng</strong>, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su
-    conference_short: ArXiv
-    pdf: https://arxiv.org/abs/2410.05243
-    code: https://github.com/OSU-NLP-Group/UGround
-    page: https://osu-nlp-group.github.io/UGround/
-    image: ./assets/img/uground.png
+  - id: skillweaver
+    name: SkillWeaver
+    title: "SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills"
+    summary: "Agents that practice on websites and turn successful interactions into reusable, executable skills."
+    authors:
+      - name: Boyuan Zheng
+        equal: true
+      - name: Michael Y. Fatemi
+        equal: true
+      - name: Xiaolong Jin
+        equal: true
+      - name: Zora Zhiruo Wang
+      - name: Apurva Gandhi
+      - name: Yueqi Song
+      - name: Yu Gu
+      - name: Jayanth Srinivasa
+      - name: Gaowen Liu
+      - name: Graham Neubig
+      - name: Yu Su
+    venue: arXiv
+    year: 2025
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2504.07079
+      - label: Code
+        url: https://github.com/OSU-NLP-Group/SkillWeaver
+      - label: Project
+        url: https://osu-nlp-group.github.io/SkillWeaver/
 
-  - title: "WebOlympus: An Open Platform for Web Agents on Live Websites"
-    authors: <strong>Boyuan Zheng*</strong>, Boyu Gou*, Scott Salisbury*, Zheng Du*, Huan Sun, Yu Su
-    conference_short: EMNLP'24 Demo
-    pdf:
-    code: https://github.com/OSU-NLP-Group/SeeAct
-    page: https://osu-nlp-group.github.io/SeeAct/
-    image: ./assets/img/web-demo.png
+  - id: webdreamer
+    name: WebDreamer
+    title: "Is Your LLM Secretly a World Model of the Internet? Model-Based Planning for Web Agents"
+    summary: "Planning with language-model world models to predict the consequences of web actions before executing them."
+    authors:
+      - name: Yu Gu
+        equal: true
+      - name: Kai Zhang
+        equal: true
+      - name: Yuting Ning
+        equal: true
+      - name: Boyuan Zheng
+        equal: true
+      - name: Boyu Gou
+      - name: Tianci Xue
+      - name: Cheng Chang
+      - name: Sanjari Srivastava
+      - name: Yanan Xie
+      - name: Peng Qi
+      - name: Huan Sun
+      - name: Yu Su
+    venue: TMLR
+    year: 2025
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2411.06559
+      - label: Code
+        url: https://github.com/OSU-NLP-Group/WebDreamer
+    image: /assets/img/webdreamer.png
+    image_alt: "WebDreamer model-based planning framework"
 
-  - title: "GPT-4V(ision) is a Generalist Web Agent,if Grounded"
-    authors: <strong>Boyuan Zheng</strong>, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su
-    conference_short: ICML'24
-    pdf: https://arxiv.org/abs/2401.01614
-    code: https://github.com/OSU-NLP-Group/SeeAct
-    page: https://osu-nlp-group.github.io/SeeAct/
-    image: ./assets/img/seeact.jpg
-
-  - title: "MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI"
-    authors: Xiang Yue, Yuansheng Ni, Kai Zhang, Tianyu Zheng, Ruoqi Liu, Ge Zhang, Samuel Stevens, Dongfu Jiang, Weiming Ren, Yuxuan Sun, Cong Wei, Botao Yu, Ruibin Yuan, Renliang Sun, Ming Yin, <strong>Boyuan Zheng</strong>, Zhenzhu Yang, Yibo Liu, Wenhao Huang, Huan Sun, Yu Su, Wenhu Chen
-    conference_short: CVPR'24
-    pdf: https://arxiv.org/abs/2311.16502
-    code: https://github.com/MMMU-Benchmark/MMMU
-    page: https://mmmu-benchmark.github.io/
-    image: ./assets/img/mmmu.jpg
-    notes: Oral
-
-  - title: "Mind2Web: Towards a Generalist Agent for the Web"
-    authors: Xiang Deng, Yu Gu, <strong>Boyuan Zheng</strong>, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
-    conference_short: NeurIPS'23
-    conference: Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS), 2023
-    pdf: https://arxiv.org/pdf/2306.06070.pdf
-    code: https://github.com/OSU-NLP-Group/Mind2Web
-    page: https://osu-nlp-group.github.io/Mind2Web/
-    image: ./assets/img/mind2web.png
-    notes: Spotlight
-
-#  - title: "Multilingual Coreference Resolution in Multiparty Dialogue"
-#    authors: <strong>Boyuan Zheng</strong>, Patrick Xia, Mahsa Yarmohammadi, Benjamin Van Durme
-#    conference_short: TACL'23
-#    conference: Transactions of the Association for Computational Linguistics <strong>(TACL)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2208.01307.pdf
-#    code: https://github.com/boyuanzheng010/mmc
-#    page: https://nlp.jhu.edu/multicoref/
-#    MIT Press: https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00581/117162/Multilingual-Coreference-Resolution-in-Multiparty
-#    notes:
-#    image: ./assets/img/mmc.png
-
-#  - title: "An Empirical Study on Finding Spans"
-#    authors: Weiwei Gu*, <strong>Boyuan Zheng*</strong>, Yunmo Chen, Tongfei Chen, Benjamin Van Durme
-#    conference_short: EMNLP'22
-#    conference: The 2022 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2022.
-#    pdf: https://arxiv.org/pdf/2210.06824.pdf
-#    image: ./assets/img/span_finder.png
-
+  - id: mind2web
+    name: Mind2Web
+    title: "Mind2Web: Towards a Generalist Agent for the Web"
+    summary: "A dataset and benchmark for agents that follow instructions on real websites and generalize to new tasks, websites, and domains."
+    authors:
+      - name: Xiang Deng
+      - name: Yu Gu
+      - name: Boyuan Zheng
+      - name: Shijie Chen
+      - name: Samuel Stevens
+      - name: Boshi Wang
+      - name: Huan Sun
+      - name: Yu Su
+    venue: NeurIPS
+    year: 2023
+    links:
+      - label: Paper
+        url: https://arxiv.org/abs/2306.06070
+      - label: Code
+        url: https://github.com/OSU-NLP-Group/Mind2Web
+      - label: Project
+        url: https://osu-nlp-group.github.io/Mind2Web/
+    image: /assets/img/mind2web.png
+    image_alt: "Mind2Web tasks and action sequences on real websites"

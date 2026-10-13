@@ -1,0 +1,190 @@
+# Grok models first; papers follow in reverse order of first public release.
+# Displayed years refer to the listed publication venues.
+# Grok 4.5 / 4.6 contribution descriptions can be added once supplied.
+---
+main:
+- id: grok-4-6
+  name: Grok 4.6
+  venue: xAI
+  year: 2026
+  links:
+  - label: Announcement
+    url: https://x.ai/news/grok-4-6
+- id: grok-4-5
+  name: Grok 4.5
+  venue: xAI
+  year: 2026
+  links:
+  - label: Announcement
+    url: https://x.ai/news/grok-4-5
+- id: grok-4-3
+  name: Grok 4.3
+  venue: xAI
+  year: 2026
+  summary: I contributed to visual coding capabilities, using computer-use agents
+    to test generated applications and provide feedback for reinforcement learning.
+  links:
+  - label: Model
+    url: https://docs.x.ai/developers/models/grok-4.3
+- id: webguard
+  name: WebGuard
+  title: 'WebGuard: Building a Generalizable Guardrail for Web Agents'
+  summary: Data and models for assessing the risks of web-agent actions.
+  authors:
+  - name: Boyuan Zheng
+  - name: Zeyi Liao
+  - name: Scott Salisbury
+  - name: Zeyuan Liu
+  - name: Michael Lin
+  - name: Qinyuan Zheng
+  - name: Zifan Wang
+  - name: Xiang Deng
+  - name: Dawn Song
+  - name: Huan Sun
+  - name: Yu Su
+  venue: arXiv
+  year: 2025
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2507.14293
+  - label: Code
+    url: https://github.com/OSU-NLP-Group/WebGuard
+- id: skillweaver
+  name: SkillWeaver
+  title: 'SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills'
+  summary: Agents that practice on websites and turn successful interactions into
+    reusable, executable skills.
+  authors:
+  - name: Boyuan Zheng
+    equal: true
+  - name: Michael Y. Fatemi
+    equal: true
+  - name: Xiaolong Jin
+    equal: true
+  - name: Zora Zhiruo Wang
+  - name: Apurva Gandhi
+  - name: Yueqi Song
+  - name: Yu Gu
+  - name: Jayanth Srinivasa
+  - name: Gaowen Liu
+  - name: Graham Neubig
+  - name: Yu Su
+  venue: arXiv
+  year: 2025
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2504.07079
+  - label: Code
+    url: https://github.com/OSU-NLP-Group/SkillWeaver
+  - label: Project
+    url: https://osu-nlp-group.github.io/SkillWeaver/
+- id: webdreamer
+  name: WebDreamer
+  title: Is Your LLM Secretly a World Model of the Internet? Model-Based Planning
+    for Web Agents
+  summary: Planning with language-model world models to predict the consequences of
+    web actions before executing them.
+  authors:
+  - name: Yu Gu
+    equal: true
+  - name: Kai Zhang
+    equal: true
+  - name: Yuting Ning
+    equal: true
+  - name: Boyuan Zheng
+    equal: true
+  - name: Boyu Gou
+  - name: Tianci Xue
+  - name: Cheng Chang
+  - name: Sanjari Srivastava
+  - name: Yanan Xie
+  - name: Peng Qi
+  - name: Huan Sun
+  - name: Yu Su
+  venue: TMLR
+  year: 2025
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2411.06559
+  - label: Code
+    url: https://github.com/OSU-NLP-Group/WebDreamer
+- id: seeact
+  name: SeeAct
+  title: GPT-4V(ision) is a Generalist Web Agent, if Grounded
+  summary: A multimodal agent for real websites, showing that grounding model predictions
+    in actionable page elements is key to reliable web interaction.
+  authors:
+  - name: Boyuan Zheng
+  - name: Boyu Gou
+  - name: Jihyung Kil
+  - name: Huan Sun
+  - name: Yu Su
+  venue: ICML
+  year: 2024
+  links:
+  - label: Paper
+    url: https://proceedings.mlr.press/v235/zheng24e.html
+  - label: Code
+    url: https://github.com/OSU-NLP-Group/SeeAct
+  - label: Project
+    url: https://osu-nlp-group.github.io/SeeAct/
+- id: mmmu
+  name: MMMU
+  title: 'MMMU: A Massive Multi-discipline Multimodal Understanding and Reasoning
+    Benchmark for Expert AGI'
+  summary: Evaluating expert-level multimodal understanding across academic disciplines.
+  authors:
+  - name: Xiang Yue
+  - name: Yuansheng Ni
+  - name: Kai Zhang
+  - name: Tianyu Zheng
+  - name: Ruoqi Liu
+  - name: Ge Zhang
+  - name: Samuel Stevens
+  - name: Dongfu Jiang
+  - name: Weiming Ren
+  - name: Yuxuan Sun
+  - name: Cong Wei
+  - name: Botao Yu
+  - name: Ruibin Yuan
+  - name: Renliang Sun
+  - name: Ming Yin
+  - name: Boyuan Zheng
+  - name: Zhenzhu Yang
+  - name: Yibo Liu
+  - name: Wenhao Huang
+  - name: Huan Sun
+  - name: Yu Su
+  - name: Wenhu Chen
+  venue: CVPR
+  year: 2024
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2311.16502
+  - label: Code
+    url: https://github.com/MMMU-Benchmark/MMMU
+  - label: Project
+    url: https://mmmu-benchmark.github.io/
+- id: mind2web
+  name: Mind2Web
+  title: 'Mind2Web: Towards a Generalist Agent for the Web'
+  summary: A dataset and benchmark for agents that follow instructions on real websites
+    and generalize to new tasks, websites, and domains.
+  authors:
+  - name: Xiang Deng
+  - name: Yu Gu
+  - name: Boyuan Zheng
+  - name: Shijie Chen
+  - name: Samuel Stevens
+  - name: Boshi Wang
+  - name: Huan Sun
+  - name: Yu Su
+  venue: NeurIPS
+  year: 2023
+  links:
+  - label: Paper
+    url: https://arxiv.org/abs/2306.06070
+  - label: Code
+    url: https://github.com/OSU-NLP-Group/Mind2Web
+  - label: Project
+    url: https://osu-nlp-group.github.io/Mind2Web/
