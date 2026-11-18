@@ -1,11 +1,11 @@
 :root {
   color-scheme: light dark;
-  --background: #fcfbf8;
-  --text: #292e2b;
-  --secondary: #626a64;
-  --link: #345b49;
-  --line: #e2e5dd;
-  --focus: #27754d;
+  --background: #fafafa;
+  --text: #292929;
+  --secondary: #666666;
+  --link: #315782;
+  --line: #e2e2e2;
+  --focus: #315782;
 }
 
 * { box-sizing: border-box; }
@@ -66,12 +66,11 @@ h3 { margin: 0 0 .45rem; font-size: 1.03rem; font-weight: 600; line-height: 1.45
 .work-summary { margin: 0; font-size: .91rem; line-height: 1.7; }
 .work-details .work-links { margin-top: 7px; }
 .work-details .work-links:first-child { margin-top: 0; }
-.contribution-note { margin: 8px 0 0; color: var(--secondary); font-size: .75rem; }
 .skip-link { position: absolute; top: -100px; left: 24px; padding: 8px 12px; background: var(--background); z-index: 1; }
 .skip-link:focus { top: 12px; }
 
 @media (prefers-color-scheme: dark) {
-  :root { --background: #181b18; --text: #e5e8e1; --secondary: #aeb7ad; --link: #abd0b8; --line: #353e34; --focus: #abd0b8; }
+  :root { --background: #1b1b1b; --text: #e7e7e7; --secondary: #b3b3b3; --link: #a6c8ef; --line: #383838; --focus: #a6c8ef; }
 }
 @media (max-width: 700px) {
   .page { padding: 44px 28px 28px; }

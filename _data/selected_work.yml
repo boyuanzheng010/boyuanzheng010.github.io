@@ -1,31 +1,21 @@
-# Grok models first; papers follow in reverse order of first public release.
+# Grok work first; papers follow in reverse order of first public release.
 # Displayed years refer to the listed publication venues.
-# Grok 4.5 / 4.6 contribution descriptions can be added once supplied.
+# The contribution summary describes Grok 4.3 specifically.
 ---
 main:
-- id: grok-4-6
-  name: Grok 4.6
+- id: grok
+  name: Grok 4.3, 4.5, 4.6
   venue: xAI
   year: 2026
-  links:
-  - label: Announcement
-    url: https://x.ai/news/grok-4-6
-- id: grok-4-5
-  name: Grok 4.5
-  venue: xAI
-  year: 2026
-  links:
-  - label: Announcement
-    url: https://x.ai/news/grok-4-5
-- id: grok-4-3
-  name: Grok 4.3
-  venue: xAI
-  year: 2026
-  summary: I contributed to visual coding capabilities, using computer-use agents
+  summary: For Grok 4.3, I contributed to visual coding capabilities, using computer-use agents
     to test generated applications and provide feedback for reinforcement learning.
   links:
-  - label: Model
+  - label: Grok 4.3
     url: https://docs.x.ai/developers/models/grok-4.3
+  - label: Grok 4.5
+    url: https://x.ai/news/grok-4-5
+  - label: Grok 4.6
+    url: https://x.ai/news/grok-4-6
 - id: webguard
   name: WebGuard
   title: 'WebGuard: Building a Generalizable Guardrail for Web Agents'
@@ -78,36 +68,6 @@ main:
     url: https://github.com/OSU-NLP-Group/SkillWeaver
   - label: Project
     url: https://osu-nlp-group.github.io/SkillWeaver/
-- id: webdreamer
-  name: WebDreamer
-  title: Is Your LLM Secretly a World Model of the Internet? Model-Based Planning
-    for Web Agents
-  summary: Planning with language-model world models to predict the consequences of
-    web actions before executing them.
-  authors:
-  - name: Yu Gu
-    equal: true
-  - name: Kai Zhang
-    equal: true
-  - name: Yuting Ning
-    equal: true
-  - name: Boyuan Zheng
-    equal: true
-  - name: Boyu Gou
-  - name: Tianci Xue
-  - name: Cheng Chang
-  - name: Sanjari Srivastava
-  - name: Yanan Xie
-  - name: Peng Qi
-  - name: Huan Sun
-  - name: Yu Su
-  venue: TMLR
-  year: 2025
-  links:
-  - label: Paper
-    url: https://arxiv.org/abs/2411.06559
-  - label: Code
-    url: https://github.com/OSU-NLP-Group/WebDreamer
 - id: seeact
   name: SeeAct
   title: GPT-4V(ision) is a Generalist Web Agent, if Grounded
